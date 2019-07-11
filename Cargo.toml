@@ -1,0 +1,8 @@
+[package]
+name = "hlcol"
+version = "0.1.0"
+authors = ["Cassaundra <cass@cassaundra.io>"]
+edition = "2018"
+
+[dependencies]
+pest = "2.1.1"
